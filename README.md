@@ -6,11 +6,11 @@
 ---
 ### :unicorn: My name is Irina.
 
-- :telescope: Self-motivated Frontend Developer.
+- Self-motivated Frontend Developer.
 
-- :zap: Implemented several projects based on JavaScript and it's frameworks.
+- Implemented several projects based on JavaScript and it's frameworks.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
